@@ -10,5 +10,10 @@ package exemplo;
  * @author joaos
  */
 public class excessao {
-    
+    public static void main(String[] args) {
+        
+        System.out.println("Consegui");
+        
+        System.out.println("Segundo commit");
+    }
 }
